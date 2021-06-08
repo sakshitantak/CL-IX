@@ -1,0 +1,7 @@
+module ReverseApp
+{
+	interface Reverse
+	{
+		string reverseString(in string str); // This line is the operation statement.
+	};
+};
